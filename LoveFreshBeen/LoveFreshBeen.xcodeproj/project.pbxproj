@@ -11,6 +11,7 @@
 		98F8FDC81D10ECD600B3D9B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 98F8FDC71D10ECD600B3D9B3 /* Assets.xcassets */; };
 		98F8FDCB1D10ECD600B3D9B3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98F8FDC91D10ECD600B3D9B3 /* LaunchScreen.storyboard */; };
 		98F8FDD31D10F16700B3D9B3 /* RootTabbarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98F8FDD21D10F16700B3D9B3 /* RootTabbarViewController.swift */; };
+		FEB0EF4C1D12EFCB003128C5 /* MyTestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB0EF4B1D12EFCB003128C5 /* MyTestViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		98F8FDCA1D10ECD600B3D9B3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		98F8FDCC1D10ECD600B3D9B3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		98F8FDD21D10F16700B3D9B3 /* RootTabbarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RootTabbarViewController.swift; sourceTree = "<group>"; };
+		FEB0EF4B1D12EFCB003128C5 /* MyTestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyTestViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				98F8FDC51D10ECD600B3D9B3 /* AppDelegate.swift */,
 				98F8FDD21D10F16700B3D9B3 /* RootTabbarViewController.swift */,
+				FEB0EF4B1D12EFCB003128C5 /* MyTestViewController.swift */,
 				98F8FDC71D10ECD600B3D9B3 /* Assets.xcassets */,
 				98F8FDC91D10ECD600B3D9B3 /* LaunchScreen.storyboard */,
 				98F8FDCC1D10ECD600B3D9B3 /* Info.plist */,
@@ -131,6 +134,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FEB0EF4C1D12EFCB003128C5 /* MyTestViewController.swift in Sources */,
 				98F8FDD31D10F16700B3D9B3 /* RootTabbarViewController.swift in Sources */,
 				98F8FDC61D10ECD600B3D9B3 /* AppDelegate.swift in Sources */,
 			);
